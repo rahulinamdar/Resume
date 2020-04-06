@@ -14,9 +14,9 @@
 						<m:Link text="{/personalInfo/email}"/>
 					</layout:VerticalLayout>
 					<layout:HorizontalLayout>
-						<m:Image src="./test-resources/sap/uxap/images/linkedin.png" press=".onClickSocial(${/personalInfo/linkedin})"/>
-						<m:Image src="./test-resources/sap/uxap/images/Twitter.png" press=".onClickSocial(${/personalInfo/twitter})"/>
-						<m:Image src="./assets/img/Octocat.jpg" width="1rem" press=".onClickSocial(${/personalInfo/git})"/>
+						<m:Image src="./assets/img/linkedin.jpg" width="2rem" press=".onClickSocial(${/personalInfo/linkedin})"/>
+						<m:Image src="./assets/img/Twitter.jpg" width="1.8rem" press=".onClickSocial(${/personalInfo/twitter})"/>
+						<m:Image src="./assets/img/Octocat.jpg" width="1.8rem" press=".onClickSocial(${/personalInfo/git})"/>
 					</layout:HorizontalLayout>
 					<layout:VerticalLayout>
 						<m:Label text="{/intro}"/>
