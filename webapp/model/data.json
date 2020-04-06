@@ -1,0 +1,66 @@
+{
+	"firstName": "Rahul",
+	"lastName": "Inamadar",
+	"designation":"Senior SAPUI5 Developer",
+	"intro":"Hi, I am a UI/UX Developer at Evora IT Solution Pvt. Ltd. JavaScript enthusiast",
+	"personalInfo": {
+		"phone": "+91 9663566094",
+		"email": "23rahul91@gmail.com",
+		"workEmail":"rahul.inamadar@evorait.com",
+		"linkedin": "https://www.linkedin.com/in/rahul-inamdar-63692775",
+		"twitter": "https://twitter.com/rahulinamadar",
+		"git": "https://github.com/rahulinamdar?tab=repositories"
+	},
+	"address":{
+		"street":"#26 1st main 3rd Stage Vinayaka layout Vijaynagar",
+		"city":"Bengaluru",
+		"country":"India"
+	},
+	"skills":[
+		{
+			"name":"JavaScript",
+			"profieciency":80
+		},
+		{
+			"name":"HTML5",
+			"profieciency":60
+		},
+		{
+			"name":"CSS",
+			"profieciency":70
+		},
+		{
+			"name":"Java",
+			"profieciency":60
+		},
+		{
+			"name":"SAPUI5",
+			"profieciency":90
+		},
+		{
+			"name":"OpenUI5",
+			"profieciency":90
+		},
+		{
+			"name":"OData",
+			"profieciency":70
+		}
+	
+	],
+	"keyPoints":[
+		{"point":"JavaScript is my favorate programming language"},
+		{"point":"Though JavaScript is not Object Oriented programming language, I like Object orientation"},
+		{"point":"#OpenUI5, #SAPUI5, #UI5Tooling, #WebIDE main area of focus"},
+		{"point":"Ultimate hand-on on Smart Controls, Map, OData annotations, XML Templating"},
+		{"point":"Presented technical seminars in UI5Con Bangalore"},
+		{"point":"Written an article on OpenUI5 to OpenSourceForU magazine"}
+	],
+	"experience":[
+		{
+			"name":"Maventic Innovative Solutions",
+			"duration":"",
+			"designation":""
+		}
+	]
+
+}
